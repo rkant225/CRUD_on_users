@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Rahul",
+      "age": "26",
+      "email": "cc@ss.COM",
+      "mobile": "1111111111",
+      "address": "dsdsddsdsdsdsdds",
+      "country": "AA",
+      "pin": "222222",
+      "id": 2
+    },
+    {
+      "name": "tester99",
+      "age": "22",
+      "email": "j@j.com",
+      "mobile": "3333333333",
+      "address": "jjjjjjjjjj",
+      "country": "ii",
+      "pin": "888888",
+      "id": 4
+    },
+    {
+      "name": "Karan  Dogra",
+      "age": "32",
+      "email": "ff@hh.com",
+      "mobile": "9876666673",
+      "address": "nnnnsnsnsns",
+      "country": "ddd",
+      "pin": "111111",
+      "id": 5
+    }
+  ]
+}
