@@ -30,7 +30,7 @@ c.) Address's length must be 10 or more.
 d.) Email must be valid
 e.) PIN must be number with length of 6
 f.) All fields are required.
-8.) This application have all the requested functionalities :
+8. This application have all the requested functionalities :
 a.) We can add a new user by clicking on "Add user" button in home
 page at the bottom of User's table.
 b.) We can view the details of a user by clicking on "View" button,
@@ -40,4 +40,4 @@ all the details will be pre-populared in UI.
 d.) We can delete an existing user, To confirm the delete operation a
 Modal will be presented in front of user, Here user can cancel the
 operation or he/she can go ahead and delete the user.
-9.) For styling I have used the Semantic-UI.
+9. For styling I have used the Semantic-UI.
